@@ -1,6 +1,6 @@
 """
 
-robot_speed = 8 # m/s
+robot_speed = 5 # m/s
 lab_1a.py
 
 The first lab in the BWSI CSS course. To complete this lab, fill out the variable on line 10
